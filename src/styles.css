@@ -1,0 +1,23 @@
+body {
+  background: #f8e886;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+a {
+  margin-right: 20px;
+  color: green;
+}
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
